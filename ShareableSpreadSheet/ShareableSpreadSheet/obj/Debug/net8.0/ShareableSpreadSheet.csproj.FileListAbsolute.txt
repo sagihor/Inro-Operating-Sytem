@@ -1,0 +1,11 @@
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ShareableSpreadSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ShareableSpreadSheet.AssemblyInfoInputs.cache
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ShareableSpreadSheet.AssemblyInfo.cs
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ShareableSpreadSheet.csproj.CoreCompileInputs.cache
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net8.0\ShareableSpreadSheet.deps.json
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net8.0\ShareableSpreadSheet.dll
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net8.0\ShareableSpreadSheet.pdb
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ShareableSpreadSheet.dll
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\refint\ShareableSpreadSheet.dll
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ShareableSpreadSheet.pdb
+C:\Users\sagih\semesters\year2\sem2\OS\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net8.0\ref\ShareableSpreadSheet.dll
